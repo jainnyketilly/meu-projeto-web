@@ -1,44 +1,47 @@
 .classe-1 {
-    color: #839db6;
+    color: #eff3f7;
     font-size: 32px;
     text-align: center;
 }
 
 .botao {
-    background-color: #829db0;
+    background-color: #eaedee;
     color: #fff;
     padding: 10px 20px;
 }
 
 .classe-2 {
-    color: rgb(249, 249, 251);
+    color: rgb(232, 232, 236);
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-size: 30px;
     background-color: rgb(250, 255, 253);
-}
-
-body {
-    background-color: #f9ed0deb;
-    color: #1f1f1fe7;
-    font-family: Verdana,Arial, Helvetica, sans-serif;
-    line-height: 1.6;
-}
-h2 {
+    }
+    body {
+        background-color: #f9ea66;
+        color: #2e2e2e;
+        font-family: Verdana, Arial, sans-serif;
+        line-height: 1.6;
+    }
+    header { background-color: #1a5632; color: #fff; text-align: center;}
+    h2 {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(253, 248, 248);
-    background-color: #09580d;
+    color: rgba(25, 24, 24, 0.93);
+    background-color: #0ed82d;
 }
 h1 { font-size: 40px; letter-spacing: 1px; 
-    color: #fff;
-    background-color: #09580d;}
-h2 { text-transform: uppercase; letter-spacing: 2px; }
+    color: #fbf7f7fe;
+    background-color: #0ed82d;
+    text-align: center;
+}
+h2 { text-transform: uppercase; letter-spacing: 2px;
+  color: #fdfcf5fe }
 .etiqueta { font-family: Verdana, sans-serif; font-size: 12px; }
 
 h3 {
     text-align: justify;
     font-family: Arial, Helvetica, sans-serif;
-    color: rgb(22, 23, 22);
+    color: rgb(17, 16, 16);
     font-size: 20px; letter-spacing: 1px;
 }

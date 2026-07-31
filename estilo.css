@@ -1,37 +1,13 @@
 body {
-    background-color: #fdd01cd5;
-    color: #1c1d1ce7;
-    font-family: Verdana,Arial, Helvetica, sans-serif;
+    background-color: #eda31a;
+    color: #0a090a;
+    font-family: Verdana, Arial;
     line-height: 1.6;
+    text-align: justify;
 }
-
-header {
-    background-color: #0f8621;
-    color: #fff;
-    text-align: center;
-}
-.titulo-principal {
-  color: hsl(240, 87%, 36%);
-  font-size: 32px;
-}
-
-.texto-vermelho {
-  color: rgb(22, 219, 186); /* */
+h1 {
+    background-color: #efea56fe;
 }
 h2 {
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    color: rgb(254, 250, 250);
-    background-color: #0f8621;
-}
-h1 { font-size: 40px; letter-spacing: 1px; }
-h2 { text-transform: uppercase; letter-spacing: 2px; }
-.etiqueta { font-family: Verdana, sans-serif; font-size: 12px; }
-
-h3 {
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    color: rgb(254, 250, 250);
-    background-color: #0f8621;
-    font-size: 20px; letter-spacing: 1px;
+    background-color: #fef84dfe;
 }
