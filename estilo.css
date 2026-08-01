@@ -7,6 +7,8 @@ body {
 }
 h1 {
     background-color: #efea56fe;
+    text-align: center;
+    font-family: Arial, Helvetica;
 }
 h2 {
     background-color: #fef84dfe;
