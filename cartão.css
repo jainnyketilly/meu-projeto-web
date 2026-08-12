@@ -1,0 +1,9 @@
+box-sizing: border-box;
+.catao {
+    background-color: #fffffff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-bottom: 16px;
+    text-align: center;
+}
